@@ -1,0 +1,23 @@
+{
+  "name": "first-electron-app",
+  "version": "1.0.0",
+  "description": "First app made in electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMist23/first-electron-app.git"
+  },
+  "author": "Aleksander Misterkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexMist23/first-electron-app/issues"
+  },
+  "homepage": "https://github.com/AlexMist23/first-electron-app#readme",
+  "devDependencies": {
+    "electron": "^22.2.0"
+  }
+}
